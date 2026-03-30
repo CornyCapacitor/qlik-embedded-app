@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <main>Welcome in Embedded-Test Qlik Sense App!</main>
+      <main className="text-2xl">Welcome in Embedded-Test Qlik Sense App!</main>
     </>
   )
 }
